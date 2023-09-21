@@ -1,0 +1,26 @@
+.form {
+  width: 700px;
+  background: radial-gradient(
+        circle at 0% 50%,
+        rgba(255, 255, 255, 0) 9px,
+        rgb(253, 253, 253) 10px,
+        rgba(83, 16, 251, 0) 11px
+      )
+      0px 10px,
+    radial-gradient(
+      at 100% 100%,
+      rgba(96, 16, 48, 0) 9px,
+      rgb(255, 255, 255) 10px,
+      rgba(96, 16, 48, 0) 11px
+    ),
+    rgb(76, 0, 255);
+  background-size: 20px 20px;
+}
+.w-30 {
+  font-weight: bold;
+  background-color: rgb(68, 0, 255);
+}
+
+.f3 {
+  font-weight: bold;
+}
